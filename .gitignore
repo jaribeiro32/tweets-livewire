@@ -312,3 +312,12 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/phpunit,phpstorm,laravel,windows,node,git
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd
+/.idea/laravel-plugin.xml
+/.idea/commandlinetools/Laravel_22_11_2020_14_47.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/phpunit.xml
+/.idea/tweets-livewire.iml
+/.idea/vcs.xml
